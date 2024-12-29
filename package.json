@@ -1,0 +1,15 @@
+{
+  "name": "developer-exam",
+  "version": "1.0.0",
+  "description": "ให้ผู้ทำแบบทดสอบ ทำโจทย์ทั้งหมด 3 ข้อจากกหัวข้อด้านล่างนี้\r ### โจทย์มีทั้งหมด 3 ข้อ\r - Class Shoping cart\r - Product Stock\r - Database design (ER diagram)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
